@@ -1,14 +1,35 @@
-# vue-project
+# Frontend Mentor - QR code component
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Recommended IDE Setup
+## Table of contents
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Built With](#built-with)
+- [Project Setup](#project-setup)
+- [Compile and Hot-Reload for Development](#compile-and-hot-reload-for-development)
+- [Compile and Minify for Production](#compile-and-minify-for-production)
+- [Author](#author)
 
-## Customize configuration
+## Overview
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### Screenshot
+
+![](./public/assets/img/screenshot.png)
+
+### Links
+
+- [Live Demonstration](https://qr-code-vue-rose.vercel.app/)
+
+### Built with
+
+- [Vue 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 ## Project Setup
 
@@ -28,8 +49,7 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+## Author
 
-```sh
-npm run lint
-```
+- Rodrigo Bezerra Saraiva
+- Frontend Mentor - [@rodrigowb4ey](https://www.frontendmentor.io/profile/rodrigowb4ey)
